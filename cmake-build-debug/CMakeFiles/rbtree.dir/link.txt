@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/rbtree.dir/main.c.o CMakeFiles/rbtree.dir/rb-tree.c.o CMakeFiles/rbtree.dir/unit.c.o  -o rbtree.exe -Wl,--out-implib,librbtree.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
